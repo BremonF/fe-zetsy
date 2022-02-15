@@ -38,7 +38,7 @@ body {
 	color: rgb(85, 85, 85);
 }
 
-#greyFont img {
+.greyFont img {
 	border: 5px rgb(204, 204, 204) solid;
 	background-color: rgb(246, 240, 238);
 	-webkit-transition: background-color 2s ease-out;
@@ -47,7 +47,7 @@ body {
 	transition: background-color 2s ease-out;
 }
 
-#greyFont:hover {
+.greyFont:hover {
 	background-color: rgb(10, 5, 4);
 	cursor: pointer;
 }
